@@ -32,3 +32,9 @@ export default {
   }
 }
 </script>
+
+<style>
+h1 {
+  color: white !important;
+}
+</style>
